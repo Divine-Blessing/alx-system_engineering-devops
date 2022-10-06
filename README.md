@@ -1,3 +1,4 @@
-
-This repository contains scripts, and commands used on shell.
+#!/bin/bash
+Thisis the README file for this repository.
+This repository contains various scripts and commands
 
